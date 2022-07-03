@@ -105,7 +105,7 @@ class _PerfilWidgetState extends State<PerfilWidget> {
                 ),
               ),
               Align(
-                alignment: AlignmentDirectional(0, 1.08),
+                alignment: AlignmentDirectional(0, 0.99),
                 child: Container(
                   width: double.infinity,
                   height: 400,
