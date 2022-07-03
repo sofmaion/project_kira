@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23816917809-lpvk79sjkatik24019kkpj0uult8h15f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23816917809-lpvk79sjkatik24019kkpj0uult8h15f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>23816917809-h9hgq4s3ag7p1f7dbercm25eg8066r17.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBo4HgKq74wY1lbrnfIhmk2Ivb4zgO_cWo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23816917809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.kira</string>
+	<key>PROJECT_ID</key>
+	<string>kira-a6046</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kira-a6046.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23816917809:ios:4637bd425c676a6d301610</string>
+</dict>
+</plist>

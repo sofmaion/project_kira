@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "23816917809",
+    "project_id": "kira-a6046",
+    "storage_bucket": "kira-a6046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23816917809:android:d39ccf581d119d38301610",
+        "android_client_info": {
+          "package_name": "com.mycompany.kira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23816917809-h9hgq4s3ag7p1f7dbercm25eg8066r17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kira",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "23816917809-6pevq3sggmirn4l3b3m1fmq197ioj2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_UUhoxBCOiYqURTMIl6AHkw1WtDd-WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23816917809-6pevq3sggmirn4l3b3m1fmq197ioj2sc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23816917809-lpvk79sjkatik24019kkpj0uult8h15f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kira"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
